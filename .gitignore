@@ -1,0 +1,12 @@
+/.plastic
+/ignore.conf
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Logs]s/
+/[Vv]isual[Ss]tudio[Cc]ode/
+/[Dd]erived[Dd]ata/
+*.csproj
+*.sln
+*.userprefs
